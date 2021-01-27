@@ -103,9 +103,9 @@
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
 	      <url>http://35.154.27.168:9677/naresh/repository/wallmart-release/</url>
-	    </repository>
+	    </repository> -->
 	    
-	    <snapshotRepository>
+	    <!-- <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
 	      <url>http://35.154.27.168:9677/naresh/repository/wallmart-snapshot/</url>
